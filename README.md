@@ -1,5 +1,5 @@
 <div align="center">
-	<img src="https://github.com/fiveslashtwo/fiveslashtwo/blob/master/SVG/text-box/text-box.svg" width="800" height="400">
+	<img src="https://github.com/fiveslashtwo/fiveslashtwo/blob/master/SVG/text-box/text-box.svg" width="800" height="200">
 </div>
 
 
